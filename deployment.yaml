@@ -4,7 +4,6 @@ metadata:
   name: 2048-app
   labels:
     app: 2048-app
-    version: "1.0"
 spec:
   replicas: 1
   selector:
