@@ -19,4 +19,4 @@ spec:
           image: 058264111032.dkr.ecr.ap-south-1.amazonaws.com/devopshint:1.2
           imagePullPolicy: Always 
           ports:
-            - containerPort: 8080
+            - containerPort: 8080  
