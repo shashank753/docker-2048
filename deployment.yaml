@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: app2048
+  name: app2048 
   labels:
     app: app2048
 spec:
